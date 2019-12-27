@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+.vs/Adress Sanitizer/v16/.suo
+.vs/Adress Sanitizer/v16/Browse.VC.db
+.vs/Adress Sanitizer/v16/Browse.VC.opendb
+*.ipch
+Adress Sanitizer.vcxproj.user
+Debug/Adress Sanitizer.log
+*.log
+*.ipdb
+*.iobj
+*.lastbuildstate
+*.tlog
+Release/Adress Sanitizer.vcxproj.FileListAbsolute.txt
+*.pdb
