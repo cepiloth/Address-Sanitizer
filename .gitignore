@@ -8,3 +8,10 @@
 .vs/Address Sanitizer/v16/Browse.VC.opendb
 .vs/Address Sanitizer/v16/Browse.VC.db
 .vs/Address Sanitizer/v16/.suo
+*.ipch
+*.tlog
+*.log
+*.pdb
+*.obj
+*.ipdb
+*.iobj
