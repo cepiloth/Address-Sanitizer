@@ -16,7 +16,7 @@ ASan에서 오류를 감지하면 실행이 즉시 중지됩니다. 디버거에
 
 ## Config
 > visual studio 2019 release / /fsanitize=address <br>
-[이미지](./Adress-Sanitizer/img/vs_config.png) <br>
-[이미지](./Adress-Sanitizer/img/vs_address.png) <br>
+[이미지](./img/vs_config.png) <br>
+[이미지](./img/vs_address.png) <br>
 
 ## Usage
