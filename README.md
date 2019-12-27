@@ -1,8 +1,8 @@
 # Adress-Sanitizer
  > Address Sanitizer
 
-Visual Studio 2019 버전 16.4 부터 실험적인 구성요소로 AddressSantizer(Asan) 을 지원 됩니다.
-(실험인 상태로 현재는 x86 release 모드에서만 지원 가능 한 상태입니다.)
+Visual Studio 2019 버전 16.4 부터 실험적인 구성요소로 AddressSantizer(Asan) 을 지원 됩니다.<br>
+**(실험인 상태로 현재는 x86 release 모드에서만 지원 가능 한 상태입니다.)
 
 ## Feature
 > 해제 후 사용(현수 포인터 참조) <br> 
