@@ -22,13 +22,14 @@ ASan에서 오류를 감지하면 실행이 즉시 중지됩니다. 디버거에
 <img src="https://github.com/cepiloth/Adress-Sanitizer/blob/master/img/vs_config.png"><br>
 
 ## Usage
-> buffer overflow
+> buffer overflow <br>
 <img src="https://github.com/cepiloth/Adress-Sanitizer/blob/master/img/buffer_overflow.png"><br>
 ```c
 #include<stdio.h>
 int main(void)
 {
-printf("Hello Interface!\n");
-return 0;
+    int *ch = new int[100];
+    ch[100] = 1;
+    return 0;
 }
 ```
