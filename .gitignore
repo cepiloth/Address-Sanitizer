@@ -1,45 +1,10 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-.vs/Adress Sanitizer/v16/.suo
+.vs/Adress Sanitizer/v16/ipch/AutoPCH/fa1f534ead27a66c/MAIN.ipch
+.vs/Adress Sanitizer/v16/ipch/AutoPCH/32710937c260f6e7/MAIN.ipch
+.vs/Adress Sanitizer/v16/ipch/AutoPCH/29361d18441cffbc/MAIN.ipch
 .vs/Adress Sanitizer/v16/Browse.VC.db
-.vs/Adress Sanitizer/v16/Browse.VC.opendb
-*.ipch
-Adress Sanitizer.vcxproj.user
-Debug/Adress Sanitizer.log
-*.log
-*.ipdb
-*.iobj
-*.lastbuildstate
-*.tlog
-Release/Adress Sanitizer.vcxproj.FileListAbsolute.txt
-*.pdb
+.vs/Adress Sanitizer/v16/.suo
+.vs/Address Sanitizer/v16/ipch/AutoPCH/7a57f372c32c34c3/MAIN.ipch
+.vs/Address Sanitizer/v16/Browse.VC.opendb
+.vs/Address Sanitizer/v16/Browse.VC.db
+.vs/Address Sanitizer/v16/.suo
