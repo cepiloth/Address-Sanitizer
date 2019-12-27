@@ -39,3 +39,6 @@ int main(void)
 
 <img src="https://github.com/cepiloth/Adress-Sanitizer/blob/master/img/buffer_overflow.png"><br>
 
+## Reference
+ > 참고 url <br>
+https://docs.microsoft.com/ko-kr/cpp/linux/linux-asan-configuration?view=vs-2019
